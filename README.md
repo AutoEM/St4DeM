@@ -8,7 +8,7 @@ It has been tested with JEOL 2100F (Stockholm), JEOL 2100F (Trondheim), aberrati
 Tested cameras include UltraScan, Oneview, ...
 
 Here only Jupyter notebooks and some useful DM scripts for 4D/6D data manipulation and analysis are provided.
-Please download the relevant files from Zenovo:
+Please download the relevant files from Zenodo:
 [link]
 
 Please read the manual for installation instructions and usage.
