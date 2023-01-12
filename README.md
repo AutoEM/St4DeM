@@ -9,7 +9,7 @@ Tested cameras include UltraScan, Oneview, ...
 
 Here only Jupyter notebooks and some useful DM scripts for 4D/6D data manipulation and analysis are provided.
 Please download the relevant files from Zenodo:
-[link]
+https://doi.org/10.5281/zenodo.7529702
 
 Please read the manual for installation instructions and usage.
 
